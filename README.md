@@ -1,6 +1,8 @@
 ## What is this?
 
-This is an archive of old projects made by me, [@tycrek](https://github.com/tycrek).
+This is an archive of old projects made by me, [@tycrek](https://github.com/tycrek)
+
+###### this account is actively maintained; the following list is not
 
 ## Notable projects
 
